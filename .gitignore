@@ -1,0 +1,6 @@
+env/
+Lavalink/logs/
+Classes/__pycache__
+Cogs/__pycache__
+__pycache__
+Docs/TestingFinal.mp4
